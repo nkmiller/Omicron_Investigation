@@ -1,4 +1,4 @@
-# Omicron_Investigation
+# Omicron RBD Mutation Investigation
 
 Github to host code for _Insights on the mutational landscape of the SARS-CoV-2 Omicron variant receptor binding domain_
 
